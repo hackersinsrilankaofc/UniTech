@@ -50,7 +50,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 * [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
 * [`Hacker Pancha`](github.com/HackerPancha)
-* [`Mr.White Shadow`](github.com/mrwhitehiru)
+* [`Mr.White Hiru`](github.com/mrwhitehiru)
 
 
 
