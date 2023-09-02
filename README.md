@@ -41,7 +41,7 @@ App Credit
 ## Dvelopers
   <div align="center">
     
-  [![Mr.White Shadow](https://github.com/whiteshadowoffici.png?size=100)](https://github.com/whiteshadowoffici) |  [![Hacker Pancha](https://github.com/HackerPancha.png?size=100)](https://github.com/HackerPancha) | [![Mr.White Hiru](https://github.com/mrwhitehiru?size=100)](https://github.com/mrwhitehiru) 
+  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) |  [![Hacker Pancha](https://github.com/hackerpancha.png?size=100)](https://github.com/HackerPancha) | [![Mr.White Hiru](https://github.com/mrwhitehiru.png?size=100)](https://github.com/mrwhitehiru) 
 ----|----|----
 [Mr.White Shadow](https://github.com/whiteshadowoffici)  | [Hacker Pancha](https://github.com/HackerPancha) | [Mr.White Hiru](https://github.com/mrwhitehiru)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
