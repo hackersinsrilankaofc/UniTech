@@ -38,4 +38,24 @@ App Credit
 
 ----
 
+## Dvelopers
+  <div align="center">
+    
+  [![Mr.White Shadow](https://github.com/whiteshadowoffici.png?size=100)](https://github.com/whiteshadowoffici) |  [![Hacker Pancha](https://github.com/HackerPancha.png?size=100)](https://github.com/HackerPancha) | [![Mr.White Hiru](https://github.com/mrwhitehiru?size=100)](https://github.com/mrwhitehiru) 
+----|----|----
+[Mr.White Shadow](https://github.com/whiteshadowoffici)  | [Hacker Pancha](https://github.com/HackerPancha) | [Mr.White Hiru](https://github.com/mrwhitehiru)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+
+## Thanks To
+
+* [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
+* [`Hacker Pancha`](github.com/HackerPancha)
+* [`Mr.White Shadow`](github.com/mrwhitehiru)
+
+
+
+
+
+> License: [MIT](https://github.com/hackersinsrilankaofc/UniTech/LICENSE)
+
 ©2023 HISL OFC.All Rights Reserved
