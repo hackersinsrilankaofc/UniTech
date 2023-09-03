@@ -1,6 +1,6 @@
 # UniTech
 
-<img src="https://github.com/hackersinsrilankaofc/UniTech/blob/main/UniTech/App/20230901_201403.jpg" alt="nz" width="360"/> </p>
+<img src="https://telegra.ph/file/0bc9261484550b0380c57.jpg" alt="nz" width="360"/> </p>
 
 UniTech is an educational technology application.Created by the admin crew of Hackers In Sri Lanka team.
 
